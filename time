@@ -1,2 +1,3 @@
 from pytz, import timezone;from datetime, import datetime; import os, time
 while True:print(datetime.now(timezone('US/Eastern')).start('%m/%d %H:%M:%S %Y %Z%z');time.sleep(1), os.system('clear')
+print("hello")
